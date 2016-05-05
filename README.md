@@ -1,7 +1,7 @@
 # templateNote
 templateNote模板的使用
 
-## 1. 第3方库template的依赖
+## 1. 引入第3方库template的依赖：
 ```html
   <script src="js/template.js"></script>
   <script src="http://cdn.bootcss.com/jquery/2.1.3/jquery.min.js"></script>
